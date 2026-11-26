@@ -58,6 +58,9 @@ Step 4 – Drawing the Side View (SV)
 5. Draw the top attachments in their correct positions, showing how they are placed on the upper surface.
 6. Finally, darken the visible outlines and check the alignment of all three views.
 
+   <img width="707" height="365" alt="Screenshot 2026-11-26 085934" src="https://github.com/user-attachments/assets/16763a4e-829b-4da0-b6a4-330bff5dca8f" />
+
+
 Step 5 – Dimensioning and Final Finishing
 
 1. Add all the important dimensions clearly using thin dimension lines, extension lines and arrowheads.
